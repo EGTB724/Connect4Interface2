@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connect4Interface", "Connect4Interface.csproj", "{C6B9EDC0-268F-4A35-B72B-9BFDAE1BCA4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6B9EDC0-268F-4A35-B72B-9BFDAE1BCA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B9EDC0-268F-4A35-B72B-9BFDAE1BCA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B9EDC0-268F-4A35-B72B-9BFDAE1BCA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B9EDC0-268F-4A35-B72B-9BFDAE1BCA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A31A05D2-3D9D-49C5-B6B8-65BFD57E1A36}
+	EndGlobalSection
+EndGlobal
