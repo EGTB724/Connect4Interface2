@@ -57,8 +57,6 @@ namespace Connect4Interface
         //State variable
         int state = 0;
 
-        //test commit
-
 
         public Connect4Form()
         {
